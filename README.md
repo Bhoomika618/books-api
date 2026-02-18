@@ -63,15 +63,6 @@ PUT update book - PUT /books/:id
   "title": "Updated Book Title"
 }
 
-Screenshots
- 
- ![GET Screenshot](./get-postman.png)
- ![POST Screenshot](./post-postman.png)
- ![PUT Screenshot](./get-postman.png)
- ![DELETE Screenshot](./get-postman.png)
-
-
-
 
 Testing
 All endpoints were tested using Postman.
